@@ -13,7 +13,7 @@
 - 📊 CGPA: **8.41 / 10**
 - 💻 Strong in **Programming & Full Stack Development**
 - 🧠 Passionate about **Data Structures & Problem Solving**
-- 🚀 Love building **real-world applications**
+- 🚀 Love building real-world applications
 - 🤝 Open to collaboration and internships
 
 ---
@@ -29,37 +29,47 @@
 ## 📌 Projects
 
 ### 🔹 Scientific Calculator
-- Built using **Python (Tkinter)**
-- Supports advanced mathematical operations
-- Interactive GUI with error handling
+- Python (Tkinter) based GUI calculator  
+- Supports advanced math operations  
 
 ### 🔹 Car Rental Management System
-- Developed using **Python (OOP + File Handling)**
-- Features booking, return, billing system
+- Python OOP + File Handling  
+- Booking, return & billing system  
 
 ### 🔹 Criminal Record Management System
-- Full-stack project using **PHP, MySQL, HTML, CSS**
-- Includes authentication, record tracking, case management
+- PHP + MySQL + HTML/CSS  
+- Role-based authentication & record tracking  
 
 ### 🔹 Sorting Visualizer
-- Built with **HTML, CSS, JavaScript**
-- Visualizes Bubble, Merge, Quick, Insertion, Selection sort
-- Adjustable speed & array size
+- HTML, CSS, JavaScript  
+- Visualizes multiple sorting algorithms  
 
 ---
 
 ## 🏆 Achievements
 
-- 🥇 1st Place in **Python Programming Competition**
-- 💡 Participant in **Smart India Hackathon (SIH) 2025**
+- 🥇 1st Place in Python Programming Competition  
+- 💡 Smart India Hackathon (SIH) 2025 Participant  
+
+---
+
+## 🧠 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Baloo&ext=heatmap" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LeetCode-YOUR_LEETCODE_USERNAME-orange?style=for-the-badge&logo=leetcode" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" />
 </p>
 
 ---
@@ -79,4 +89,4 @@
 
 ## ⚡ Fun Fact
 
-💡 I enjoy solving problems on coding platforms and turning ideas into real-world applications!
+💡 I love solving DSA problems and building impactful software projects!
