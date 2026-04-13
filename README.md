@@ -24,27 +24,6 @@
   <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,mysql,git" />
 </p>
 
----
-
-## 📌 Projects
-
-### 🔹 Scientific Calculator
-- Python (Tkinter) based GUI calculator  
-- Supports advanced math operations  
-
-### 🔹 Car Rental Management System
-- Python OOP + File Handling  
-- Booking, return & billing system  
-
-### 🔹 Criminal Record Management System
-- PHP + MySQL + HTML/CSS  
-- Role-based authentication & record tracking  
-
-### 🔹 Sorting Visualizer
-- HTML, CSS, JavaScript  
-- Visualizes multiple sorting algorithms  
-
----
 
 ## 🏆 Achievements
 
