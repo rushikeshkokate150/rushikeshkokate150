@@ -10,7 +10,7 @@
 ## 💡 About Me
 
 - 🎓 B.Tech CSE Student at **MIT World Peace University, Pune**
-- 📊 CGPA: **8.41 / 10**
+- 📊 CGPA: **8.36 / 10**
 - 💻 Strong in **Programming & Full Stack Development**
 - 🧠 Passionate about **Data Structures & Problem Solving**
 - 🚀 Love building real-world applications
@@ -56,11 +56,11 @@
 ## 🧠 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Baloo&ext=heatmap" />
+  <img src="https://leetcard.jacoblin.cool/rushikeshkokate?theme=dark&font=Baloo&ext=heatmap" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-YOUR_LEETCODE_USERNAME-orange?style=for-the-badge&logo=leetcode" />
+  <img src="https://img.shields.io/badge/LeetCode-rushikeshkokate-orange?style=for-the-badge&logo=leetcode" />
 </p>
 
 ---
@@ -68,8 +68,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rushikeshkokate150&show_icons=true&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=rushikeshkokate150&theme=tokyonight" />
 </p>
 
 ---
